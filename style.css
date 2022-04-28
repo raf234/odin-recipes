@@ -1,0 +1,17 @@
+/* style.css */
+
+html {
+    background-color: antiquewhite;
+}
+
+div {
+    color: antiquewhite;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 800px;
+}

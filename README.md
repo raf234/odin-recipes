@@ -12,4 +12,6 @@ I think the biggest and most helpful things I've learned so far have been Linux/
 
 Can't wait to learn more!
 
+Added some CSS elements from the first exercise in the CSS Foundations folder. Looking very rudimentary/dated. Excited to eventually get into deeper styling and/or JS.
+
 :)
